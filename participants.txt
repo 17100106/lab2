@@ -2,9 +2,15 @@
 -Charles
 -Lisa
 -John
+<<<<<<< HEAD
+
+
+
 -Marketing team
 -Collins
 -Linda
 -Patricia
 -Morgan
 -Amanda
+=======
+>>>>>>> master
